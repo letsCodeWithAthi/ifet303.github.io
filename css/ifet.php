@@ -1,0 +1,1 @@
+<?php echo "IFET COLLEG OF ENGINEERING" ?>
